@@ -175,12 +175,7 @@
   </div>
   <div class="navbar navbar-default navbar-fixed-bottom">
     <div class="container">
-      <p class="navbar-text pull-left">&copy; 2016 - App Developed By Prajith
-           <a href="http://ndimensionz.com" target="_blank" >Ndimensionz</a>
-      </p>
-      
-      <a href="http://ndimensionz.com" target="_blank" class="navbar-btn btn-danger btn pull-right">
-      <span class="glyphicon glyphicon-star"></span> Ndimensionz</a>
+      <p class="navbar-text pull-left">&copy; 2016</p>
     </div>
   </div>
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
